@@ -7,7 +7,7 @@
 As a novice software engineer, I aspire to become a top programmer by either creating projects from scratch, starting with planning and design and ending with practical problem-solving through code, or through the guidance of a bootcamp that helps me achieve my objectives.
 
 <a href="https://github.com/anasks19?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ansasks19?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/anasks19?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/anasks19?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/anasks19?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    <a href="https://github.com/anasks19?tab=viwers">
