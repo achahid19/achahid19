@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+GitHub;Building+The+Future)](https://git.io/typing-svg)
 
-As a novice software engineer, I aspire to become a top programmer by either creating projects from scratch, starting with planning and design and ending with practical problem-solving through code, or through the guidance of a bootcamp that helps me achieve my objectives.
+As a novice software engineer, I aspire to become a top programmer by either creating projects from scratch, starting with planning and design and ending with practical problem-solving through code that helps me achieve my objectives.
 
 <a href="https://github.com/anasks19?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/anasks19?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
