@@ -4,7 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+GitHub;Building+The+Future)](https://git.io/typing-svg)
 
-As a novice software engineer, I aspire to become a top programmer by either creating projects from scratch, starting with planning and design and ending with practical problem-solving through code that helps me achieve my objectives.
+As a budding software engineer, I am determined to become a skilled programmer and reach the top of this profession. My goal is to create amazing projects from the ground up, beginning with planning and design, and culminating in the satisfaction of using code to solve real-world problems.
+Also, I am passionate about exploring the potential of Web3.0 and the world of cryptocurrency. My goal is to not only become a skilled programmer, but also to learn about the latest technologies and tools that are driving innovation in the industry. I am excited to be part of this dynamic field and look forward to contributing to the development of new and exciting applications that will shape the future of the web.
 
 <a href="https://github.com/anasks19?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/anasks19?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
