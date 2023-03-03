@@ -1,6 +1,6 @@
 # 👨‍💻 Anas Chahid Ksabi
 
-**(Future Software engineer)**
+**(Future Software Engineer)**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+GitHub;Building+The+Future)](https://git.io/typing-svg)
 
