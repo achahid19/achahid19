@@ -58,7 +58,7 @@ Also, I am passionate about exploring the potential of Web3.0 and the world of c
 
 ---
 
-## 📫 How to reach me:
+## 📫 How to reach me
 
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/it_CryptoKs)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/anas-chahid-ksabi-b097bb254/)
