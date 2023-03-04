@@ -23,7 +23,7 @@ Also, I am passionate about exploring the potential of Web3.0 and the world of c
  
  **`[25/02/2023] : Learned how to navigate through Shell.`**
  
- **`[28/02/2023] : I learnt Vi/Vim and Emacs editors.`**
+ **`[28/02/2023] : I learnt Vim and Emacs editors.`**
  
  **`[29/02/2023] : I learnt Git and Github.`**
  
@@ -58,10 +58,7 @@ Also, I am passionate about exploring the potential of Web3.0 and the world of c
 
 ---
 
-## ☎️Contact me.
-
-- 📫 How to reach me:
-
+## 📫 How to reach me:
 
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/it_CryptoKs)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/anas-chahid-ksabi-b097bb254/)
