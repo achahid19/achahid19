@@ -2,7 +2,7 @@
 
 **`Future Software Engineer`**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+GitHub;Building+The+Future)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&duration=4000&pause=1000&color=00DD4F&vCenter=true&width=500&height=60&lines=Welcome+To+My+GitHub;Contributing+To+The+Developement+Of+Web)](https://git.io/typing-svg)
 
 As a budding software engineer, I am determined to become a skilled programmer and reach the top of this profession. My goal is to create amazing projects from the ground up, beginning with planning and design, and culminating in the satisfaction of using code to solve real-world problems.
 Also, I am passionate about exploring the potential of Web3.0 and the world of cryptocurrency. My goal is to not only become a skilled programmer, but also to learn about the latest technologies and tools that are driving innovation in the industry. I am excited to be part of this dynamic field and look forward to contributing to the development of new and exciting applications that will shape the future of the web.
