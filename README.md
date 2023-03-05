@@ -41,7 +41,7 @@ Also, I am passionate about exploring the potential of Web3.0 and the world of c
 
 ## 🧰 Languages and Tools
 
-![My Skills](https://skillicons.dev/icons?i=c,bash,linux,vscode,vim,emacs,git,github&perline=10)
+![My Skills](https://skillicons.dev/icons?i=c,bash,linux,vscode,vim,emacs,git,javascript,github&perline=10)
 
 ---
 
