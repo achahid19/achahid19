@@ -27,13 +27,13 @@ Also, I am passionate about exploring the potential of Web3.0 and the world of c
  
  **`[29/02/2023] : I learnt Git and Github.`**
  
- **`[01/03/2023] : Started understanding the algorithem, psuedocode and flowchart.`**
- 
- **`[02/03/2023] : Diving deep in Shell.`**
+ **`[01/03/2023] : Start to understand the algorithem, psuedocode and flowchart.`**
  
  **`[02/03/2023] : Learned Visual Studio Code editor.`**
  
- **`[03/03/2023] : Starting My C language journey.`**
+ **`[02/03/2023] : Starting My C language journey.`**
+         
+ **`[06/03/2023] : Shell commands and permissions.`**
 
 </details>
 
