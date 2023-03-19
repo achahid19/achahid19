@@ -30,10 +30,12 @@ Also, I am passionate about exploring the potential of Web3.0 and the world of c
  **`[01/03/2023] : Start to understand the algorithem, psuedocode and flowchart.`**
  
  **`[02/03/2023] : Learned Visual Studio Code editor.`**
- 
- **`[02/03/2023] : Starting My C language journey.`**
          
  **`[06/03/2023] : Shell commands and permissions.`**
+         
+ **`[15/03/2023] : Shell - I/O Redirections and filters, init files, variables and expansions.`** 
+         
+ **`[20/03/2023] : Starting My C language journey.`**        
 
 </details>
 
