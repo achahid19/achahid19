@@ -40,7 +40,18 @@ Also, I am passionate about exploring the potential of Web3.0 and the world of c
 </details>
 
 ---
+---
+<details>
+ <summary><h2>👨‍ About Coding </h2></summary>
+         
+**`Coding is not about being the best, it's about being better than you were yesterday.`**
+         
+**`Remember, every small step you take towards improving your coding skills is a step towards your goals. Keep pushing, keep learing, and you'll get there`**
+         
+</details>
 
+--- 
+ 
 ## 🧰 Languages and Tools
 
 ![My Skills](https://skillicons.dev/icons?i=c,bash,linux,vscode,vim,emacs,git,javascript,github&perline=10)
@@ -69,6 +80,7 @@ Also, I am passionate about exploring the potential of Web3.0 and the world of c
 ---
 
 --> - 🌱 I’m currently learning: Programming & Web 3.0 Developement
+
 --> - ⚡ Fun fact: BTC Dump = Buy The Dip
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasks19&label=Profile%20views&color=0e75b6&style=flat" alt="anasks19" /> </p>
