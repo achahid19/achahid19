@@ -81,7 +81,7 @@ Also, I am passionate about exploring the potential of Web3.0 and the world of c
 
 --> - 🌱 I’m currently learning: Programming & Web 3.0 Developement
 
---> - ⚡ Fun fact: BTC Dump = Buy The Dip
+--> - ⚡ Fun fact: BTC Dump == Buy The Dip
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasks19&label=Profile%20views&color=0e75b6&style=flat" alt="anasks19" /> </p>
 
