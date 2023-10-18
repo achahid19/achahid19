@@ -19,22 +19,9 @@ Also, I am passionate about exploring the potential of Web3.0 and the world of c
  
  **`[20/02/2023] : I started my programing journey with ALX SE program.`**
  
- **`[25/02/2023] : Learned how to navigate through Shell.`**
+ **`[20/03/2023] : Starting My C language journey.`**     
  
- **`[28/02/2023] : I learnt Vim and Emacs editors.`**
- 
- **`[29/02/2023] : I learnt Git and Github.`**
- 
- **`[01/03/2023] : Start to understand the algorithem, psuedocode and flowchart.`**
- 
- **`[02/03/2023] : Learned Visual Studio Code editor.`**
-         
- **`[06/03/2023] : Shell commands and permissions.`**
-         
- **`[15/03/2023] : Shell - I/O Redirections and filters, init files, variables and expansions.`** 
-         
- **`[20/03/2023] : Starting My C language journey.`**        
-
+ **`[01/11/2023] : Student at 1337. `**
 </details>
 
 ---
