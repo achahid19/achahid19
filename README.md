@@ -2,6 +2,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=5001&pause=1000&color=02F718&center=true&vCenter=true&width=435&lines=Future+Software+Engineer" alt="Typing SVG" /></a>
 
+[![Custom Badge](https://badge.mediaplus.ma/binary/achahid-)](https://badge.mediaplus.ma/binary/achahid-)
+
 As a budding software engineer, I am determined to become a skilled programmer and reach the top of this profession. My goal is to create amazing projects from the ground up, beginning with planning and design, and culminating in the satisfaction of using code to solve real-world problems.
 Also, I am passionate about exploring the potential of Web3.0 and the world of cryptocurrency. My goal is to not only become a skilled programmer, but also to learn about the latest technologies and tools that are driving innovation in the industry. I am excited to be part of this dynamic field and look forward to contributing to the development of new and exciting applications that will shape the future of the web.
 
@@ -12,19 +14,6 @@ Also, I am passionate about exploring the potential of Web3.0 and the world of c
    <a href="https://github.com/achahid19?tab=viwers">
    </p>
 
----
-<details>
-
- <summary><h2>👨‍💻 Ks's Coding Journey</h2></summary>
- 
- **`[20/02/2023] : I started my programing journey with ALX SE program.`**
- 
- **`[20/03/2023] : Starting My C language journey.`**     
- 
- **`[01/11/2023] : Student at 1337. `**
-</details>
-
----
 ---
 <details>
  <summary><h2>👨‍ About Coding </h2></summary>
