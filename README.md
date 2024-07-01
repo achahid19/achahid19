@@ -53,9 +53,9 @@ Also, I am passionate about exploring the potential of Web3.0 and the world of c
 
 ---
 
---> - 🌱 I’m currently learning: Programming && Web 2.0 Developement
+--> - 🌱 I’m currently learning: Programming && Web 2.0 Developement.
 
---> - ⚡ Fun fact: BTC Dump == Buy The Dip
+--> - ⚡ NFT (Solana Based) & Crypto Investor.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achahid19&label=Profile%20views&color=0e75b6&style=flat" alt="achahid19" /> </p>
 
