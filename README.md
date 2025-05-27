@@ -1,6 +1,6 @@
 # 👨‍💻 Anas Chahid Ksabi
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=5001&pause=1000&color=02F718&center=true&vCenter=true&width=435&lines=Future+Software+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=5001&pause=1000&color=02F718&center=true&vCenter=true&width=435&lines=Software+Engineer" alt="Typing SVG" /></a>
 
 [![Custom Badge](https://badge.mediaplus.ma/binary/achahid-)](https://badge.mediaplus.ma/binary/achahid-)
 
@@ -55,7 +55,7 @@ Also, I am passionate about exploring the potential of Web3.0 and the world of c
 
 --> - 🌱 I’m currently learning: Programming && Web 2.0 Developement.
 
---> - ⚡ NFT (Solana Based) & Crypto Investor.
+--> - ⚡ Web3.0 Investor.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achahid19&label=Profile%20views&color=0e75b6&style=flat" alt="achahid19" /> </p>
 
