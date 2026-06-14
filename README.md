@@ -1,95 +1,122 @@
-# 👨‍💻 Anas Chahid Ksabi
+![header](https://capsule-render.vercel.app/api?type=waving&section=header&height=220&color=0:EA4B71,100:6D00CC&text=Anas%20Chahid%20Ksabi&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=AI%20Agent%20%26%20Workflow%20Automation%20Engineer&descAlignY=58&descSize=18)
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=5000&pause=1000&color=02F718&center=true&vCenter=true&width=650&lines=Software+Engineer;Data+%26+Automation+Focused;1337+(42+Network)" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=21&duration=3500&pause=900&color=EA4B71&center=true&vCenter=true&width=700&lines=n8n+Verified+Creator;AI+Agent+%26+Workflow+Automation+Engineer;Finance+brain+%2B+engineering+hands;13%2B+systems+in+production)](https://git.io/typing-svg)
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-aixautomation.tech-EA4B71?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aixautomation.tech)&nbsp;
+[![OSS Project](https://img.shields.io/badge/OSS_Project-flowsave.space-6D00CC?style=for-the-badge&logo=npm&logoColor=white)](https://flowsave.space)&nbsp;
 [![42 Badge](https://badge.mediaplus.ma/binary/achahid-)](https://badge.mediaplus.ma/binary/achahid-)
+
+<br/><br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=achahid19&label=Profile%20views&color=EA4B71&style=flat)
 
 </div>
 
 ---
 
-## 🚀 About Me
+**AI Automation Engineer** with a software engineering foundation from **42 Network** and a **Master's in Finance** — a combination that lets me read the business logic behind every workflow and build systems that deliver real ROI, not just technical complexity.
 
-**Software Engineer trained at 1337 (42 Network)** with a background in finance and a strong interest in **data systems and automation workflows**.  
-I enjoy building **reliable backend software**, working close to **data pipelines**, and designing systems that scale cleanly from logic to infrastructure.
-
-Certified in **Data Engineering with Databricks**, with hands-on exposure to **Delta Lake, Databricks SQL, and workflow orchestration**.  
-Currently seeking opportunities to contribute to **data-driven and automation-oriented systems**.
+I design and ship **AI agents, automation systems, and developer tools** that connect LLMs, APIs, and data into reliable production workflows. Clean code, solid infrastructure, systems built to hold up — not just demos that work once. When I'm not shipping for clients, I build open-source tools for the **n8n ecosystem** and publish community workflows.
 
 ---
 
-## 🧠 Focus Areas
+## ⚡ What I Ship
 
-- Backend & system-level programming  
-- Data engineering fundamentals & analytics workflows  
-- Automation and reliability-focused software design  
-- Algorithms, data structures, and clean architecture  
-
----
-
-## 🧰 Languages & Tools
-
-### Programming & Query Languages
-![Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,bash)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-
-### Backend, Web & Data
-![Skills](https://skillicons.dev/icons?i=nodejs,react,express)
-
-### Data & Analytics
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-
-**Also familiar with:** Delta Lake · Databricks SQL · Power BI
-
-### DevOps & Systems
-![Skills](https://skillicons.dev/icons?i=linux,docker,git,github,nginx)
-
-### Tooling
-![Skills](https://skillicons.dev/icons?i=vscode,vim,emacs,webpack,npm)
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="200">🤖<br/><b>AI Agents</b><br/><sub>research · decide · act</sub></td>
+    <td align="center" width="200">🔗<br/><b>Process Automation</b><br/><sub>ops pipelines · lead flows</sub></td>
+    <td align="center" width="200">🔌<br/><b>System Integration</b><br/><sub>CRMs · APIs · databases</sub></td>
+    <td align="center" width="200">🚀<br/><b>OSS & Products</b><br/><sub>tools for the n8n community</sub></td>
+  </tr>
+</table>
+</div>
 
 ---
 
-## 📌 Selected Highlights
+## 🧰 Stack
 
-- 🔧 Built system-level and networked applications in **C / C++**
-- ⚙️ Developed reusable frontend and backend components in **TypeScript**
-- 📊 Designed data workflows using **Databricks & Delta Lake**
-- 🐳 Worked with **Docker & Linux** for automation-friendly environments
+<div align="center">
+
+### Automation & AI
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Firecrawl](https://img.shields.io/badge/Firecrawl-FF6B35?style=for-the-badge&logo=firefoxbrowser&logoColor=white)
+![ScrapingDog](https://img.shields.io/badge/ScrapingDog-F5A623?style=for-the-badge&logo=databricks&logoColor=white)
+
+### Languages & Backend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### Web & Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+
+### Data & Integrations
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![GitHub API](https://img.shields.io/badge/GitHub_API-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+</div>
 
 ---
 
-<details>
- <summary><h2>📊 Stats</h2></summary>
-         
-![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=achahid19&show_icons=true&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
+## 📊 Stats
 
-<p><img align="center" width="470" src="https://github-readme-streak-stats.herokuapp.com/?user=achahid19&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5" alt="achahid19" /></p>
+<div align="center">
 
-</details>
+<img src="https://github-readme-stats.vercel.app/api?username=achahid19&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=EA4B71&icon_color=EA4B71&text_color=c9d1d9" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=achahid19&hide_border=true&theme=dark&background=0D1117&ring=EA4B71&fire=EA4B71&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=EA4B71&sideLabels=c9d1d9&dates=8b949e&stroke=EA4B71" height="170" />
 
----
-
-## 📫 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/anas-chahid-ksabi">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://twitter.com/it_CryptoKs">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  <br>
-  📧 <a href="mailto:achahid1999@gmail.com">achahid1999@gmail.com</a>
-</p>
+</div>
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=achahid19&label=Profile%20views&color=0e75b6&style=flat" alt="achahid19" />
-</p>
+## 📫 Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/anas-chahid-ksabi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://twitter.com/it_CryptoKs"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;
+<a href="mailto:anasks1999@gmail.com"><img src="https://img.shields.io/badge/Email-EA4B71?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:6D00CC,100:EA4B71" width="100%" />
