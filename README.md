@@ -1,14 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&section=header&height=220&color=0:EA4B71,100:6D00CC&text=Anas%20Chahid%20Ksabi&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=AI%20Agent%20%26%20Workflow%20Automation%20Engineer&descAlignY=58&descSize=18)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:EA4B71,100:6D00CC&text=Anas%20Chahid%20Ksabi&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=AI%20Automation%20Engineer&descAlignY=58&descSize=18" width="100%" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=21&duration=3500&pause=900&color=EA4B71&center=true&vCenter=true&width=700&lines=n8n+Verified+Creator;AI+Agent+%26+Workflow+Automation+Engineer;Finance+brain+%2B+engineering+hands;13%2B+systems+in+production)](https://git.io/typing-svg)
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-aixautomation.tech-EA4B71?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aixautomation.tech)&nbsp;
-[![OSS Project](https://img.shields.io/badge/OSS_Project-flowsave.space-6D00CC?style=for-the-badge&logo=npm&logoColor=white)](https://flowsave.space)&nbsp;
-[![42 Badge](https://badge.mediaplus.ma/binary/achahid-)](https://badge.mediaplus.ma/binary/achahid-)
+<a href="https://aixautomation.tech" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-aixautomation.tech-EA4B71?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
+<a href="https://flowsave.space" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/OSS_Project-flowsave.space-6D00CC?style=for-the-badge&logo=npm&logoColor=white" alt="OSS Project" /></a>&nbsp;
+<a href="https://badge.mediaplus.ma/binary/achahid-" target="_blank" rel="noopener noreferrer"><img src="https://badge.mediaplus.ma/binary/achahid-" alt="42 Badge" /></a>
 
 <br/><br/>
 
@@ -111,8 +107,8 @@ I design and ship **AI agents, automation systems, and developer tools** that co
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/anas-chahid-ksabi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="https://twitter.com/it_CryptoKs"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/anas-chahid-ksabi" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://twitter.com/it_CryptoKs" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;
 <a href="mailto:anasks1999@gmail.com"><img src="https://img.shields.io/badge/Email-EA4B71?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
