@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:EA4B71,100:6D00CC&text=Anas%20Chahid%20Ksabi&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=AI%20Automation%20Engineer&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:EA4B71,100:6D00CC&text=Anas%20Chahid%20Ksabi&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=AI%20Engineer&descAlignY=58&descSize=18" width="100%" />
 
 <div align="center">
 
