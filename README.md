@@ -14,7 +14,7 @@
 
 ---
 
-**AI Automation Engineer** with a software engineering foundation from **42 Network** and a **Master's in Finance** — a combination that lets me read the business logic behind every workflow and build systems that deliver real ROI, not just technical complexity.
+**AI & Automation Engineer** with a software engineering foundation from **42 Network** and a **Master's in Finance** — a combination that lets me read the business logic behind every workflow and build systems that deliver real ROI, not just technical complexity.
 
 I design and ship **AI agents, automation systems, and developer tools** that connect LLMs, APIs, and data into reliable production workflows. Clean code, solid infrastructure, systems built to hold up — not just demos that work once. When I'm not shipping for clients, I build open-source tools for the **n8n ecosystem** and publish community workflows.
 
